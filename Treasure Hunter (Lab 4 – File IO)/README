@@ -1,0 +1,7 @@
+CECS 277 – Lab 4 – File IO
+Treasure Hunter
+Create a program that allows the user to wander through a map in search of treasure while trying
+to avoid traps. The user starts at the upper left corner of the map and then they can move up,
+down, left, or right, as long as they stay within the boundaries of the 7x7 map. The user can
+receive a hint that will tell them the number of treasures and traps that are nearby. If the user
+finds all seven treasures, then they win, if they run into any traps, then they lose.
