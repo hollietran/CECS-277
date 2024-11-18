@@ -1,0 +1,8 @@
+CECS 277 – Lab 11 – Factory Method
+Escape Room
+Write a program that simulates an escape room by having the user open a series of three doors
+that are randomly chosen from several different types of doors. The user may choose the
+difficulty level, either easy or hard. Use the Factory Method design pattern to implement the two
+difficulty levels. Easy doors are the BasicDoor, LockedDoor, and the ComboDoor. Difficult
+doors are the ComboDoor, DeadboltDoor, and the Code Door. Use the following class diagram
+to create your program.
