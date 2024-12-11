@@ -1,0 +1,9 @@
+CECS 277 – Lab 12 – Decorator Pattern
+Thanksgiving Dinner
+Using the Decorator pattern, create a game that has the user add food to their plate without going
+over the weight or area limit of a paper plate. There are two different base types of plates: a
+small, sturdy 10-inch paper plate, or a large, flimsy, 12-inch plate. The plates can then be
+decorated with five different types of food: Turkey, Stuffing, Potatoes, Green Beans, and
+Pumpkin Pie. Each serving of the different foods has a weight, in ounces, and an area, in square
+inches. The user may load up their plate at the buffet as much as they like, but if the area or
+weight limit of the plate is surpassed, then their food falls to the floor
