@@ -1,0 +1,5 @@
+CECS 277 – Lab 14 – State
+Puppy Simulator
+Using the State pattern, create a puppy simulator program that has two basic functions: to feed or
+play with the puppy. The puppy will react differently to these functions based on which state it
+is currently in. The puppy has three possible states: asleep, eating, or playing.
